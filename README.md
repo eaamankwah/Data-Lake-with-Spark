@@ -106,7 +106,7 @@ The dimension tables below contain detailed information about each row in the fa
 #### Artists Table 
 
 | COLUMN      | TYPE      | 
-|---    |---    |---    |    
+|---    |---    |  
 |   artist_id    |    VARCHAR     |   
 |   name    |   VARCHAR    |   
 |   location    |   VARCHAR    |   
